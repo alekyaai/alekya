@@ -1,1 +1,1 @@
-print("hello this is sample")
+print("another sample")
